@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pydantic
+langchain
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-tavily
+kiwipiepy
+rank_bm25
